@@ -15,13 +15,13 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-06-data-mybatis/spring-boot-06-data-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" filepath="$PROJECT_DIR$/spring-boot-07/spring-boot-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" filepath="$PROJECT_DIR$/spring-boot-08-starter-test/spring-boot-08-starter-test.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-01-cache/springboot-01-cache.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-01-cache/springboot-01-cache.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-02-amqp/springboot-02-amqp.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-02-amqp/springboot-02-amqp.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-03-elastic/springboot-03-elastic.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-03-elastic/springboot-03-elastic.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-04-task/springboot-04-task.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-04-task/springboot-04-task.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-05-security/springboot-05-security.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-05-security/springboot-05-security.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-07-deploy/springboot-07-deploy.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-07-deploy/springboot-07-deploy.iml" />
-      <module fileurl="file://D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-08-actuator/springboot-08-actuator.iml" filepath="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-08-actuator/springboot-08-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-01-cache/springboot-01-cache.iml" filepath="$PROJECT_DIR$/springboot-01-cache/springboot-01-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-02-amqp/springboot-02-amqp.iml" filepath="$PROJECT_DIR$/springboot-02-amqp/springboot-02-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-03-elastic/springboot-03-elastic.iml" filepath="$PROJECT_DIR$/springboot-03-elastic/springboot-03-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-04-task/springboot-04-task.iml" filepath="$PROJECT_DIR$/springboot-04-task/springboot-04-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-05-security/springboot-05-security.iml" filepath="$PROJECT_DIR$/springboot-05-security/springboot-05-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-07-deploy/springboot-07-deploy.iml" filepath="$PROJECT_DIR$/springboot-07-deploy/springboot-07-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" filepath="$PROJECT_DIR$/springboot-08-actuator/springboot-08-actuator.iml" />
     </modules>
   </component>
 </project>

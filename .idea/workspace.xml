@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95334154-83d6-430e-af7d-9a7e2a6ea4bc" name="Default" comment="" />
+    <list default="true" id="95334154-83d6-430e-af7d-9a7e2a6ea4bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-boot-01-helloworld/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-01-helloworld-quick/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-02-config/target/" />
@@ -22,6 +24,7 @@
     <ignored path="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-05-security/target/" />
     <ignored path="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-07-deploy/target/" />
     <ignored path="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-08-actuator/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-01-cache/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +125,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -146,12 +152,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="646" />
-    <option name="y" value="43" />
-    <option name="width" value="1132" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1" />
+    <option name="y" value="102" />
+    <option name="width" value="1386" />
     <option name="height" value="768" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -228,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/百度云盘/尚硅谷SpringBoot整合篇/代码/代码/springboot-06-dubbo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-08-actuator" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -368,15 +375,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585377431049</updated>
-      <workItem from="1585377433985" duration="2340000" />
+      <workItem from="1585377433985" duration="3290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2340000" />
+    <option name="totallyTimeSpent" value="3290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="179" y="1" width="1132" height="768" extended-state="0" />
+    <frame x="180" y="15" width="1132" height="768" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -396,10 +403,10 @@
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32843137" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30130598" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.20458265" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30130598" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" />
@@ -552,11 +559,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springboot-08-actuator</last-edited>
+          <last-edited>spring-boot-08-starter-test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.34181818" />
                 <option value="0.6" />
               </list>
             </option>

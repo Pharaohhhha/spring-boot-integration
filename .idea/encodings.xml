@@ -21,5 +21,12 @@
     <file url="file://$PROJECT_DIR$/spring-boot-06-data-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-07" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-08-starter-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-01-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-02-amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-elastic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-05-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-07-deploy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-actuator" charset="UTF-8" />
   </component>
 </project>
